@@ -1,0 +1,4 @@
+docx2txt==0.8
+faiss_cpu==1.10.0
+numpy==2.2.3
+sentence_transformers==3.4.1
